@@ -1,0 +1,12 @@
+{
+  "name": "node-jsdemo",
+  "version": "0.0.0",
+  "description": "NodeJSDemo",
+  "main": "server.js",
+  "author": {
+    "name": "Andrew"
+  },
+  "dependencies": {
+    "cloudmersive-image-api-client": "^1.1.0"
+  }
+}
