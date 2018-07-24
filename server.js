@@ -9,7 +9,6 @@ http.createServer(function (req, res) {
 
     var defaultClient = CloudmersiveImageApiClient.ApiClient.instance;
 
-    //defaultClient.basePath = "http://localhost:64058";
 
     // Configure API key authorization: Apikey
     var Apikey = defaultClient.authentications['Apikey'];
